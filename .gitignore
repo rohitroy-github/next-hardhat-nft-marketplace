@@ -1,0 +1,40 @@
+# Node.js
+node_modules
+
+# Build files
+/dist/
+/build/
+/out/
+
+# Hardhat
+/hardhat.config.js
+artifacts
+cache
+
+# Next.js
+.next/
+.cache/
+out/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+
+# Editor files
+.vscode/
+.idea/
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# myFiles
+readMeRohit
